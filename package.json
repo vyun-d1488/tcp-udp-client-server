@@ -1,6 +1,7 @@
 {
-  "name": "tcp-udp-chat",
+  "name": "tcp-udp-client&server",
   "version": "1.0.0",
   "main": "index.js",
+  "author": "vyun-d1488 <ilyaspiypiy@gmail.com>",
   "license": "MIT"
 }
